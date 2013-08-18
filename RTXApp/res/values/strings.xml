@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RTX App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="NewButtonCaption">News</string>
+    <string name="ScheduleButton">Schedule</string>
+    <string name="MapButton">Map</string>
+    <string name="ExtrasButton">Extras</string>
+    <string name="title_activity_show_schedule">Schedule</string>
+    <string name="title_activity_show_news">News</string>
+    <string name="title_activity_show_map">Map</string>
+    <string name="title_activity_show_extras">Extras</string>
+
+</resources>
