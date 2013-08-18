@@ -25,21 +25,25 @@ public class MainActivity extends Activity {
     /** Called when the user clicks the News Button */
     public void openNews(View view) {
     	Intent intent = new Intent(this, ShowNewsActivity.class);
+    	startActivity(intent);
     }
     
     /** Called when the user clicks the schedule button */
     public void openSchedule(View view) {
     	Intent intent = new Intent(this, ShowScheduleActivity.class);
+    	startActivity(intent);
     }
     
     /** Called when the user clicks the map button */
     public void openMap(View view) {
     	Intent intent = new Intent(this, ShowMapActivity.class);
+    	startActivity(intent);
     }
     
     /** Called when the user clicks the extras button */
     public void openExtras(View view) {
     	Intent intent = new Intent(this, ShowExtrasActivity.class);
+    	startActivity(intent);
     }
     
 }
